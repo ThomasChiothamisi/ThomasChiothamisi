@@ -37,12 +37,27 @@ The project uses SQL to analyse campaign data and Power BI to develop an interac
 
 **[View Project →](#)**
 
-## Uber-Trip-Analysis-Report
+### Uber-Trip-Analysis-Report
 
 This project analyses Uber trip data using SQL Server and Power BI to understand booking activity, revenue, trip patterns, vehicle performance, payment behaviour and location trends.
 
 **Analysis Includes:** 
+- Total Bookings
+- Total Booking Value
+- Average Booking Value
+- Total and Average Trip Distance
+- Average Trip Time
+- Bookings and booking value by payment type
+- Day vs Night trip analysis
+- Vehicle performance analysis
+- Bookings by day of the week
+- Most frequent pickup and drop-off locations
+- Farthest pickup and drop-off locations
+- Top five booking locations
 
+The project uses SQL to analyse campaign data and Power BI to develop an interactive dashboard that communicates key performance trends and business insights.
+
+https://github.com/ThomasChiothamisi/Uber-Trip-Analysis-Report
 
 ## Data Analytics Portfolio
 
