@@ -57,7 +57,7 @@ This project analyses Uber trip data using SQL Server and Power BI to understand
 
 The project uses SQL to analyse campaign data and Power BI to develop an interactive dashboard that communicates key performance trends and business insights.
 
-https://github.com/ThomasChiothamisi/Uber-Trip-Analysis-Report
+[View Uber Trip Project](https://github.com/ThomasChiothamisi/Uber-Trip-Analysis-Report)
 
 ## Data Analytics Portfolio
 
