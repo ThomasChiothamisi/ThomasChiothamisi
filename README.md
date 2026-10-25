@@ -35,7 +35,7 @@ An end-to-end data analytics project analysing Meta advertising campaign perform
 
 The project uses SQL to analyse campaign data and Power BI to develop an interactive dashboard that communicates key performance trends and business insights.
 
-**[View Project →](#)**
+[View META Ads Performance Project](https://github.com/ThomasChiothamisi/meta-ads-performance-analysis)
 
 ### Uber-Trip-Analysis-Report
 
